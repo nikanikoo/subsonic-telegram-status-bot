@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="464" height="238" alt="image" src="" />
+  <img width="514" height="215" alt="{C8DC20B8-1DAE-4C5E-9D97-587AAE8B20DB}" src="https://github.com/user-attachments/assets/13e16b46-97fe-4d7d-ab80-a0fa338c1678" />
   <h1>Subsonic API to Telegram Status Bot</h1>
   <p><b>A Python script to broadcast your currently playing Subsonic API track directly to a Telegram channel message in real-time.</b></p>
   <div>
