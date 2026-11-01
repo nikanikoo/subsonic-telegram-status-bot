@@ -1,0 +1,13 @@
+{
+  "inactive": "💤 <b>Сейчас ничего не играет через Subsonic API</b>",
+  "now_playing": "🎧 <b>Сейчас играет через Subsonic API</b>\n\n",
+  "track": "Трек",
+  "artist": "Исполнитель",
+  "album": "Альбом",
+  "duration": "Длительность",
+  "player": "Плеер",
+  "unknown_track": "Неизвестный трек",
+  "unknown_artist": "Неизвестный исполнитель",
+  "unknown_album": "Неизвестный альбом",
+  "unknown_player": "Неизвестный плеер"
+}

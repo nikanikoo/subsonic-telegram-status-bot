@@ -1,0 +1,13 @@
+{
+  "inactive": "💤 <b>Nothing is playing on Subsonic API right now</b>",
+  "now_playing": "🎧 <b>Now playing on Subsonic API</b>\n\n",
+  "track": "Track",
+  "artist": "Artist",
+  "album": "Album",
+  "duration": "Duration",
+  "player": "Player",
+  "unknown_track": "Unknown track",
+  "unknown_artist": "Unknown artist",
+  "unknown_album": "Unknown album",
+  "unknown_player": "Unknown player"
+}
